@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <path
+       d="M 506.50697,5 259,139.11572 v 46.76856 L 506.50697,320 V 264.28986 L 311.37674,162.5 506.50697,60.710143 Z"
+       style="font-size:647.868px;line-height:19.4361px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans';stroke-width:1.25852"
+       id="path18" />
+    <path
+       d="M 5,5 V 60.709799 L 200.13217,162.50098 5,264.29018 V 320 L 252.50697,185.88317 V 139.1149 Z"
+       style="font-size:647.868px;line-height:19.4361px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans';stroke-width:1.25851"
+       id="path13" />
+    <path
+       d="m 252.50697,192 v 55.70808 L 57.374793,349.49804 252.50697,451.28995 V 507 L 5,372.88438 v -46.76876 z"
+       style="font-size:647.868px;line-height:19.4361px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans';stroke-width:1.25852"
+       id="path14" />
+    <path
+       d="m 259,192 247.50697,134.11572 v 46.76856 L 259,507 V 451.28986 L 454.13217,349.49805 259,247.7082 Z"
+       style="font-size:647.868px;line-height:19.4361px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans';stroke-width:1.25852"
+       id="path16" />
+  </g>
+</svg>
